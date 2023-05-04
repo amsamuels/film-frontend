@@ -12,4 +12,6 @@ Now, you can explore the different features of this application. One of the most
 
 Additionally, this application also allows users to search, update, delete, and send new film objects to the web service. You can perform these operations by interacting with the appropriate buttons and forms available on the user interface.
 
+You should never commit your env file to github, I Have commited the env file to show how the api url is being accessed in the apicalls file
+
 I hope you enjoy using this Vite React front-end project and find it helpful in your development endeavors. If you encounter any issues or have any feedback, please feel free to reach out to us. Happy coding!
